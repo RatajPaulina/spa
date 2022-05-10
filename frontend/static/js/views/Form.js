@@ -37,7 +37,7 @@ export default class extends Page {
                 Keep Aspect Ratio
               </label>
             </div>
-            <br><button type="button">Save</button>
+            <br><button onclick="window.open('http://localhost:3000/post')">Save</button>
             <canvas class="resizer__canvas" width="500" height="500"></canvas>
           </div>
           <div>

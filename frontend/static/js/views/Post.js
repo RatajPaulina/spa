@@ -9,7 +9,8 @@ export default class extends Page {
 
     async getHtml() {
         return `
-            <h1>Post</h1>
+            <h1>Bravo success, you've saved the data</h1>
+            
         `;
     }
 }

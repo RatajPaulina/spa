@@ -48,7 +48,6 @@ export default class extends Page {
               </tr>
             </tbody>
           </table>
-          <script src="./static/js/tablesort.js"></script>
 
           <p>Click the button to display an alert box.</p>
 

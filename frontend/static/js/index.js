@@ -23,7 +23,7 @@ const router = async() => {
         { path: "/", view: Dashboard },
         { path: "/list", view: List },
         { path: "/form", view: Form },
-        { path: "/post/:id", view: Post },
+        { path: "/post", view: Post },
     ];
     const mapMatches = routes.map(route => {
         return {
